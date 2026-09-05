@@ -24,12 +24,3 @@ This is a console-based Java application simulating a Mini Hospital Emergency Ma
 ## Usage
 
 When you run the application, you will be presented with a menu. Follow the on-screen prompts to register patients, manage the emergency queue, complete treatments, and view histories.
-
-## Assignment Video Requirements
-For the final submission, you will need to record a 5-10 minute video.
-Make sure to demonstrate:
-- A brief introduction with your face visible.
-- Code explanation of how each data structure (BST, Queue, Stack, Linked List) was implemented.
-- System demonstration running the CLI menu.
-- Your GitHub commit history (`git log --oneline`).
-- A reflection on what you learned.
